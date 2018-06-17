@@ -1,0 +1,14 @@
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\Domain.Repositories.dll.config
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\Domain.Repositories.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\Domain.Repositories.pdb
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\Domain.Entities.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\EntityFramework.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\Domain.Entities.pdb
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\EntityFramework.xml
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\obj\Debug\Domain.Repositories.csprojAssemblyReference.cache
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\obj\Debug\Domain.Repositories.csproj.CoreCompileInputs.cache
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\obj\Debug\Domain.Repositories.csproj.CopyComplete
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\obj\Debug\Domain.Repositories.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Repositories\obj\Debug\Domain.Repositories.pdb

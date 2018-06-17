@@ -1,0 +1,6 @@
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Entities\bin\Debug\Domain.Entities.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Entities\bin\Debug\Domain.Entities.pdb
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Entities\obj\Debug\Domain.Entities.csprojAssemblyReference.cache
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Entities\obj\Debug\Domain.Entities.csproj.CoreCompileInputs.cache
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Entities\obj\Debug\Domain.Entities.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Domain.Entities\obj\Debug\Domain.Entities.pdb

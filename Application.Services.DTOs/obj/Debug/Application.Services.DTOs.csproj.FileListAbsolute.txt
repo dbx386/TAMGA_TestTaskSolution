@@ -1,0 +1,6 @@
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Application.Services.DTOs\bin\Debug\Application.Services.DTOs.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Application.Services.DTOs\bin\Debug\Application.Services.DTOs.pdb
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Application.Services.DTOs\obj\Debug\Application.Services.DTOs.csprojAssemblyReference.cache
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Application.Services.DTOs\obj\Debug\Application.Services.DTOs.csproj.CoreCompileInputs.cache
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Application.Services.DTOs\obj\Debug\Application.Services.DTOs.dll
+D:\DigitLaboratory\JobTestTasks\TAMGA_TestTaskSolution\Application.Services.DTOs\obj\Debug\Application.Services.DTOs.pdb
